@@ -20,7 +20,7 @@ export const Hero = () => {
                     width={550}
                     
                 />
-                <h1 className="text-black/80 dark:text-blue-200 font-extrabold -mt-[180px] text-7xl">Experience premium</h1>
+                <h1 className="text-black/80 dark:text-blue-200 font-extrabold -mt-[80px] text-7xl">Experience premium</h1>
                 <TypeAnimation 
                     sequence={[
                         "car washing", 1000,
